@@ -34,7 +34,7 @@ Ce projet est un pipeline de **Data Science** orienté vers le **scoring de cré
 
 ### **4. Déploiement 🚢**  
 - **Dossier `Deploiement`** :  
-  - Contient les fichiers nécessaires pour le déploiement futur du projet (par exemple, via Flask ou FastAPI).  
+  - Contient les fichiers nécessaires pour le déploiement futur du projet (via Flask).
   - Étape suivante : ajouter un **Dockerfile** pour conteneuriser l'application et simplifier son déploiement.  
 
 ---
@@ -72,5 +72,5 @@ cd Hack2Hiere_TechTech_DataScience_81
 ## 👤 **Auteur**  
 **Thiara Kanteye**  
 - *Aspiring Data Scientist*  
-- **LinkedIn** : [https://www.linkedin.com/in/thiara-kanteye-a137a3271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ](#)  
-- **Contact** : thiara.kante@gmail.com 
+- **LinkedIn** : [https://www.linkedin.com/in/thiara-kanteye-a137a3271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](#)  
+- **Contact** : thiarakante@gmail.com 
