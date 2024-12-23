@@ -1,6 +1,3 @@
-Voici la version mise à jour de votre fichier README avec les informations supplémentaires sur le déploiement avec **Flask** et **Streamlit** :  
-
----
 
 # 🚀 Hack2Hiere_TechTech_DataScience_81  
 
@@ -82,6 +79,4 @@ cd Hack2Hiere_TechTech_DataScience_81
 - **LinkedIn** : [https://www.linkedin.com/in/thiara-kanteye-a137a3271/](#)  
 - **Contact** : thiarakante@gmail.com  
 
---- 
 
-Si vous souhaitez des modifications supplémentaires ou un meilleur formatage, faites-le-moi savoir ! 😊
