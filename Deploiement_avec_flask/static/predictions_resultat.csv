@@ -1,0 +1,31 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Prediction
+25,male,2,rent,moderate,little,5000,12,car,Bon Risque
+40,female,3,own,little,moderate,10000,24,furniture/equipment,Mauvais Risque
+30,male,1,rent,quite rich,rich,3000,6,education,Bon Risque
+50,female,2,own,moderate,rich,15000,36,business,Bon Risque
+28,male,0,free,little,little,2000,9,radio/TV,Bon Risque
+35,female,3,own,rich,rich,25000,48,repairs,Mauvais Risque
+45,male,2,rent,moderate,little,8000,18,domestic appliances,Mauvais Risque
+32,female,1,free,little,little,1500,6,vacation/others,Bon Risque
+26,male,3,rent,little,rich,4000,12,car,Bon Risque
+48,female,2,own,quite rich,moderate,12000,30,education,Mauvais Risque
+60,male,0,free,moderate,little,6000,15,radio/TV,Bon Risque
+29,female,1,rent,little,moderate,7000,20,domestic appliances,Mauvais Risque
+38,male,3,own,rich,rich,20000,48,repairs,Bon Risque
+42,female,2,own,rich,little,9000,22,business,Bon Risque
+23,male,0,free,little,rich,1500,8,vacation/others,Bon Risque
+55,female,2,own,quite rich,little,5000,10,education,Bon Risque
+33,male,1,rent,rich,little,8000,18,furniture/equipment,Bon Risque
+44,female,3,own,moderate,rich,15000,36,car,Bon Risque
+31,male,2,rent,little,little,4000,12,repairs,Bon Risque
+47,female,3,own,little,moderate,18000,40,business,Mauvais Risque
+22,female,1,own,moderate,rich,20000,4,car,Mauvais Risque
+30,male,3,rent,moderate,little,14000,9,furniture/equipment,Mauvais Risque
+39,female,2,rent,rich,rich,5000,18,education,Bon Risque
+19,male,2,free,little,rich,2500,17,business,Bon Risque
+75,male,1,free,quite rich,moderate,30000,9,radio/TV,Mauvais Risque
+33,female,1,free,quite rich,little,12000,8,domestic appliances,Mauvais Risque
+43,female,2,rent,moderate,moderate,7000,10,business,Bon Risque
+31,male,2,own,rich,rich,4000,18,vacation/others,Bon Risque
+29,male,3,own,moderate,rich,20000,36,radio/TV,Mauvais Risque
+45,female,1,rent,little,little,9000,12,furniture/equipment,Bon Risque
