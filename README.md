@@ -76,7 +76,7 @@ cd Hack2Hiere_TechTech_DataScience_81
 ## 👤 **Auteur**  
 **Thiara Kanteye**  
 - *Aspiring Data Scientist*  
-- **LinkedIn** : [https://www.linkedin.com/in/thiara-kanteye-a137a3271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ]  
+- **LinkedIn** : https://www.linkedin.com/in/thiara-kanteye-a137a3271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - **Contact** : thiarakante@gmail.com  
 
 
